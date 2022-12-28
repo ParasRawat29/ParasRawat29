@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Rawat</h1>
-<h3 align="center">frontend devlepoer</h3>
+<h3 align="center">frontend developer</h3>
 
 - 🌱 I’m currently learning **Reactjs , javascript**
 
